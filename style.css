@@ -1,0 +1,54 @@
+body {
+    background-image: url("img/background\ website.png");
+    background-size: cover;
+    background-color: #cccccc;}
+ /* الناف */
+.navbar .container-fluid .navbar-brand  {
+    text-align: center;
+    font-size: 19px;
+    font-family: 'Aref Ruqaa', serif;
+    margin-top:4px;}
+.navbar-nav   {
+    padding-top: -10px;
+    text-align: center;
+    width:890px;
+    font-family: 'Aref Ruqaa', serif;
+    font-size:20px;}
+.navbar-nav a  {
+    text-align: center;
+    text-decoration: none;
+    color: yellow;
+    padding-left: 40px;
+    margin-left: 50px;   }
+.navbar-nav :hover {
+    color: rgb(247, 251, 251);
+    font-family: 'Aref Ruqaa', serif;}
+.navbar-toggler img {
+    width: 30px;
+    border: none; }
+.label-iconconact {
+    font-family: 'Aref Ruqaa', serif;
+    width: 80px;}
+.box-conaxt { 
+   padding-top:10px;
+    display: inline-block;
+    display:flex;
+    width:450px;
+    font-family: 'Aref Ruqaa', serif;}
+.iconeconact svg {
+    margin-top:-23px;
+    padding-left:15px;
+    width:40px;
+    height:auto;
+    margin-right: 10px;}
+.iconeconact svg:hover {
+    width:45px;
+    color: aquamarine;
+    margin-right: 10px;}
+ /* الناف */
+
+ .imgtran img {
+    width:5px;
+    height:2px;
+    margin-top:200px;
+ }
